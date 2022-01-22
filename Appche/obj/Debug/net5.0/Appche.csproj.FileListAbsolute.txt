@@ -1,0 +1,16 @@
+C:\Users\Marcelo\source\repos\Appche\Appche\bin\Debug\net5.0\Appche.exe
+C:\Users\Marcelo\source\repos\Appche\Appche\bin\Debug\net5.0\Appche.deps.json
+C:\Users\Marcelo\source\repos\Appche\Appche\bin\Debug\net5.0\Appche.runtimeconfig.json
+C:\Users\Marcelo\source\repos\Appche\Appche\bin\Debug\net5.0\Appche.runtimeconfig.dev.json
+C:\Users\Marcelo\source\repos\Appche\Appche\bin\Debug\net5.0\Appche.dll
+C:\Users\Marcelo\source\repos\Appche\Appche\bin\Debug\net5.0\ref\Appche.dll
+C:\Users\Marcelo\source\repos\Appche\Appche\bin\Debug\net5.0\Appche.pdb
+C:\Users\Marcelo\source\repos\Appche\Appche\obj\Debug\net5.0\Appche.csproj.AssemblyReference.cache
+C:\Users\Marcelo\source\repos\Appche\Appche\obj\Debug\net5.0\Appche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\source\repos\Appche\Appche\obj\Debug\net5.0\Appche.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\Appche\Appche\obj\Debug\net5.0\Appche.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\Appche\Appche\obj\Debug\net5.0\Appche.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\Appche\Appche\obj\Debug\net5.0\Appche.dll
+C:\Users\Marcelo\source\repos\Appche\Appche\obj\Debug\net5.0\ref\Appche.dll
+C:\Users\Marcelo\source\repos\Appche\Appche\obj\Debug\net5.0\Appche.pdb
+C:\Users\Marcelo\source\repos\Appche\Appche\obj\Debug\net5.0\Appche.genruntimeconfig.cache
